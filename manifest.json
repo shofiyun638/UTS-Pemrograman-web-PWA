@@ -1,0 +1,17 @@
+{
+	"name": "Kota Brebes",
+	"short_name": "BREBES",
+	"description": "Aplikasi PWA UTS WEB",
+	"start_url": "/index.html",
+	"display": "standalone",
+	"background_color": "#0000CD",
+	"theme_color": "#0000CD",
+	"icons": [
+		{
+			"src": "icon.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+	
+}
